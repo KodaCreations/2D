@@ -1,0 +1,48 @@
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Platformer.exe
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Platformer.pdb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Release\Platformer.exe
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Release\Platformer.pdb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Release\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\Skybox.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\BushFront.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\BushRear.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\CloudFront.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\CloudRear.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\Hill.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MountFront.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MountRear.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\WorldTiles.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\Buttons.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\Weapons.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\HudElements.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Credits.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Instructions.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\CharacterSheet.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\Skybox.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\BushFront.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\BushRear.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\CloudFront.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\CloudRear.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\Hill.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MountFront.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MountRear.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\WorldTiles.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MenuBackground.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\Buttons.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\Weapons.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\HudElements.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Credits.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Instructions.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\CharacterSheet.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\game.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\menu.xnb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\game.wma
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\menu.wma
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Platformer.exe
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Platformer.pdb
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Release\Platformer.csprojResolveAssemblyReference.cache
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Release\Platformer.exe
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Release\Platformer.pdb

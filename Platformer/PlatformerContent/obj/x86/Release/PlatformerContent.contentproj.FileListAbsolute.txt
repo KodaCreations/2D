@@ -1,0 +1,2 @@
+C:\Users\Andreas\Desktop\Platformer\Platformer\PlatformerContent\obj\x86\Release\PlatformerContent.contentprojResolveAssemblyReference.cache
+H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\PlatformerContent\obj\x86\Release\PlatformerContent.contentprojResolveAssemblyReference.cache

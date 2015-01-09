@@ -1,0 +1,5 @@
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+D:\Skrivbord\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache
+D:\Koda Creations\Games\Platformer\Platformer\PlatformerContent\obj\x86\Debug\PlatformerContent.contentprojResolveAssemblyReference.cache

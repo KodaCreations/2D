@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\Skybox.png</Source>
+      <Name>Backgrounds\Skybox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\Skybox.xnb</Output>
+      <Time>2014-11-23T14:31:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\BushFront.png</Source>
+      <Name>Backgrounds\BushFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\BushFront.xnb</Output>
+      <Time>2014-11-23T14:39:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\BushRear.png</Source>
+      <Name>Backgrounds\BushRear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\BushRear.xnb</Output>
+      <Time>2014-11-23T14:39:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\CloudFront.png</Source>
+      <Name>Backgrounds\CloudFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\CloudFront.xnb</Output>
+      <Time>2014-11-23T15:38:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\CloudRear.png</Source>
+      <Name>Backgrounds\CloudRear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\CloudRear.xnb</Output>
+      <Time>2014-11-23T14:49:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Hill.png</Source>
+      <Name>Backgrounds\Hill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\Hill.xnb</Output>
+      <Time>2014-11-23T14:39:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MountFront.png</Source>
+      <Name>Backgrounds\MountFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MountFront.xnb</Output>
+      <Time>2014-11-23T14:39:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MountRear.png</Source>
+      <Name>Backgrounds\MountRear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MountRear.xnb</Output>
+      <Time>2014-11-23T14:39:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\WorldTiles.png</Source>
+      <Name>Objects\WorldTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\WorldTiles.xnb</Output>
+      <Time>2014-11-24T01:03:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MenuBackground.png</Source>
+      <Name>Backgrounds\MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Backgrounds\MenuBackground.xnb</Output>
+      <Time>2014-11-24T03:32:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\Buttons.png</Source>
+      <Name>Objects\Buttons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\Buttons.xnb</Output>
+      <Time>2014-11-24T11:49:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\Weapons.png</Source>
+      <Name>Objects\Weapons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\Weapons.xnb</Output>
+      <Time>2014-11-24T23:41:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\HudElements.png</Source>
+      <Name>Objects\HudElements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\HudElements.xnb</Output>
+      <Time>2014-11-24T21:10:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Credits.png</Source>
+      <Name>Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Credits.xnb</Output>
+      <Time>2014-11-24T22:17:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Instructions.png</Source>
+      <Name>Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Instructions.xnb</Output>
+      <Time>2014-11-24T22:04:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\CharacterSheet.png</Source>
+      <Name>Objects\CharacterSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\Objects\CharacterSheet.xnb</Output>
+      <Time>2014-11-24T23:18:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>game.mp3</Source>
+      <Name>game</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\game.xnb</Output>
+      <Extra>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\game.wma</Extra>
+      <Time>2014-11-28T04:19:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.mp3</Source>
+      <Name>menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\menu.xnb</Output>
+      <Extra>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\menu.wma</Extra>
+      <Time>2014-12-02T13:49:46+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5BCCDC61-36D3-4F27-8BC3-672475AD4BF3}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\PlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>H:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-28T20:34:43.0839779+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

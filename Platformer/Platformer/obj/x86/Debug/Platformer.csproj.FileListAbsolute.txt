@@ -1,0 +1,120 @@
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Skybox.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushFront.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushRear.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudFront.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudRear.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Hill.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountFront.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountRear.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\WorldTiles.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Buttons.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Weapons.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\HudElements.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Credits.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Instructions.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\CharacterSheet.xnb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+G:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Skybox.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushFront.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushRear.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudFront.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudRear.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Hill.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountFront.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountRear.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\WorldTiles.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Buttons.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Weapons.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\HudElements.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Credits.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Instructions.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\CharacterSheet.xnb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+E:\Objektorienterad Spelprogrammering\Period 4\Examination\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Skybox.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushFront.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushRear.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudFront.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudRear.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Hill.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountFront.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountRear.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\WorldTiles.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Buttons.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Weapons.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\HudElements.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Credits.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Instructions.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\CharacterSheet.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Skybox.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushFront.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushRear.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudFront.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudRear.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Hill.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountFront.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountRear.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\WorldTiles.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Buttons.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Weapons.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\HudElements.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Credits.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Instructions.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\CharacterSheet.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\66.xnb
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Content\66.wma
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+D:\Skrivbord\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+D:\Skrivbord\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+D:\Skrivbord\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Skrivbord\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+D:\Skrivbord\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\game.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\menu.xnb
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\game.wma
+C:\Users\Andreas\Desktop\Platformer\Platformer\Platformer\bin\x86\Debug\Content\menu.wma
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Skybox.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushFront.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\BushRear.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudFront.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\CloudRear.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Hill.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountFront.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MountRear.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\WorldTiles.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Buttons.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\Weapons.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\HudElements.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Credits.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Instructions.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Objects\CharacterSheet.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\game.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\menu.xnb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\game.wma
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Content\menu.wma
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+D:\Koda Creations\Games\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
