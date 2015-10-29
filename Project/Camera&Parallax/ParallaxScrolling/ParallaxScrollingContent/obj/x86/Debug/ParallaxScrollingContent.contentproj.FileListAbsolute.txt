@@ -1,0 +1,2 @@
+E:\Download\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrollingContent\obj\x86\Debug\ParallaxScrollingContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\ParallaxScrolling-master\ParallaxScrolling\ParallaxScrollingContent\obj\x86\Debug\ParallaxScrollingContent.contentprojResolveAssemblyReference.cache
